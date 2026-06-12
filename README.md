@@ -70,5 +70,4 @@ The analysis successfully highlighted important business patterns and trends.
 - Visual analysis made business decision-making easier and more effective.
 
 #video link 
-
-
+https://drive.google.com/file/d/1noq85i_r2al3YMCukPFyPFAvu_4SxRBH/view?usp=drive_link
